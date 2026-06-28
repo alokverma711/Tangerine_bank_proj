@@ -1,1 +1,1 @@
-# Tangerine - Modern UI/UX website using React.js & Tailwind CSS
+# Tangerine - Modern UI/UX website using React.js
